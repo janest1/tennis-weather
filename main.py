@@ -77,5 +77,3 @@ def schedule_game(date: str, zip_code: str):
         ]
     )
 
-
-
